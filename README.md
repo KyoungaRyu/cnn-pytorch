@@ -33,4 +33,4 @@ Convolutional Neural Networks (CNN)
 
 **4. Conclusion** 
 
-   The ConvNet architecture and parameters used in this Convolutional Neural Network are capable of producing accuracy of % on Validation Data. It is possible to achieve more accuracy on this dataset using deeper network layers and fine tuning of hyper parameters for training. 
+   The ConvNet architecture and parameters used in this Convolutional Neural Network are capable of producing accuracy of 94% on Validation Data. It is possible to achieve more accuracy on this dataset using deeper network layers and fine tuning of hyper parameters for training. 

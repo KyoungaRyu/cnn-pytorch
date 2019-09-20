@@ -7,6 +7,7 @@ An algorithm to distinguish dogs from cats using Pytorch
 **1. Dataset**
 
 Data from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats) 
+
 The training archive contains 25,000 images of dogs and cats. 
 
 

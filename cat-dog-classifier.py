@@ -5,7 +5,7 @@ import torch.nn.init
 from PIL import Image
 
 # parameters
-learning_rate = 0.01
+learning_rate = 0.001
 training_epochs = 15
 batch_size = 100
 

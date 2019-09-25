@@ -1,4 +1,4 @@
-### CNN(Convolutional Neural Network) Cat-Dog Classfier
+### CNN(Convolutional Neural Network) Cat-Dog Classifier
 
 An algorithm to distinguish dogs from cats using Pytorch
 
